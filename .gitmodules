@@ -1,0 +1,3 @@
+[submodule "submodule-secret"]
+	path = submodule-secret
+	url = git@github.com:felhix/submodule-secret.git
