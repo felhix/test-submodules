@@ -1,3 +1,6 @@
 [submodule "submodule-secret"]
 	path = submodule-secret
 	url = git@github.com:felhix/submodule-secret.git
+[submodule "public-submodule"]
+	path = public-submodule
+	url = git@github.com:felhix/public-submodule.git
